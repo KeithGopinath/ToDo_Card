@@ -2,8 +2,6 @@
 
 The goal of this exercise is to create a simple Todo Application with React
 
-Points will be awarded for the following:
-
 * Nice, simple UI that shows cards on the desktop, and a list on mobile
 * Semantic HTML
 * Interactivity with React.js - Add the ability to add a new item, and to mark an item as finished
